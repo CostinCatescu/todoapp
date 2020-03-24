@@ -21,7 +21,7 @@
     "jsonwebtoken": "^7.3.0",
     "lodash": "^4.17.4",
     "mongodb": "^2.2.25",
-    "mongoose": "^4.9.0",
+    "mongoose": "^5.9.6",
     "socket.io": "^1.7.3",
     "validator": "^7.0.0"
   },
